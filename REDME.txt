@@ -1,0 +1,4 @@
+Esta práctica pertenece al capitulo 4 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se estudia la forma de subir una pagina web a Internet. También se muestran algunas atributos 
+de la etiqueta <a> (title y target) que ayudan a mejorar la experiencia del usuario en la pagina web, ademas de presentar
+los conceptos de rutas relativas y URLs.
